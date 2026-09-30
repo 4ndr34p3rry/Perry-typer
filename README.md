@@ -5,7 +5,7 @@ Practice typing on keyboard without looking
 
  A C compiler is required to compile and run the program (`gcc` o `clang`), `make` and **ncurses** development headers.
 
-
+![Screenshot](screenshot.png)
 
 ### Dependencies installation
 
