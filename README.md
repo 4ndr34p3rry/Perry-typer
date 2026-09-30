@@ -34,6 +34,7 @@ Practice typing on keyboard without looking
 1. Clone the repository:
 ```Bash
   git clone https://github.com/4ndr34p3rry/Perry-typer
+  cd Perry-typer
 ```
 2. Compile the project:
 ```Bash
