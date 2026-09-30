@@ -29,7 +29,7 @@ Practice typing on keyboard without looking
   brew install ncurses
   ```
 
-### Compilation and execution
+## Compilation and execution
 
 1. Clone the repository:
 ```Bash
@@ -49,8 +49,8 @@ Practice typing on keyboard without looking
   make clean
 ```
 
-### Customization
-  #### Amount of letters
+## Customization
+  ### Amount of letters
  It is possible to set a different amount of letters in two ways:
 - **Editing `game.h` header file:**
 > Use any text editor you prefer to open the file 
@@ -78,7 +78,7 @@ Practice typing on keyboard without looking
   ```
   This will spawn a game 25 letters long but its value cannot be equal or greater than GAME_WIDTH
 
-####  Change player/cursor
+###  Change player/cursor
 
 It is possible to change the "player" by editing `game.h` header file
 
