@@ -57,7 +57,7 @@ Practice typing on keyboard without looking
 
   Edit the parameter GAME_WIDTH as you wish, it will set a maximum width the game will occupy and will scale the game size accordingly.
 
-	```C
+```C
     #define GAME_WIDTH 120 //<== edit this
 
     #define CURSOR "player >"
@@ -69,7 +69,7 @@ Practice typing on keyboard without looking
     void spawnPhrase(char*, char*, int*);
 
     void fixPhrase(char*, int);
-	```
+```
 
 
 - **Using arguments:**
