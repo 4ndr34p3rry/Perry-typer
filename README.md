@@ -1,11 +1,11 @@
 # Perry-typer
 Practice typing on keyboard without looking 
 
+![Screenshot](screenshot.png)
+
 ## Requisites & dependencies
 
  A C compiler is required to compile and run the program (`gcc` o `clang`), `make` and **ncurses** development headers.
-
-![Screenshot](screenshot.png)
 
 ### Dependencies installation
 
