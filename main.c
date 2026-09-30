@@ -19,7 +19,7 @@ int main(int argc, char* argv[]) {//qualsiasi cosa abbia a che fare con gli argo
 
 
 	
-	printf("\nType the right letter starting from left\n");
+	printf("\nType the correct letter starting from left\n");
 
 	if(argc != 2){
 		for (int i = 0; i <= GAME_WIDTH/2; i++) {
